@@ -5,7 +5,7 @@ permalink: /profiles/
 description: This is our group.
 nav: true
 nav_order: 4
-display_categories: [Principal Investigator, Postdocs, PhD Students, Masters Students, Visiting Students]
+display_categories: [Principal Investigator, Postdocs, PhD Students, Master's Students, Visiting Students]
 horizontal: false
 ---
 
