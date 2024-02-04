@@ -1,8 +1,8 @@
 ---
 layout: page
-title: group
+title: Group
 permalink: /profiles/
-description: This is our group.
+description: This is our team.
 nav: true
 nav_order: 4
 display_categories: [Principal Investigator, Postdocs, PhD Students, Master's Students, Visiting Students]
