@@ -1,11 +1,11 @@
 ---
 layout: page
 title: group
-permalink: /projects/
+permalink: /profiles/
 description: This is our group.
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [Principal Investigator, Postdocs, PhD Students, Master Students, Visiting Students]
 horizontal: false
 ---
 
