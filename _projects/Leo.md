@@ -3,9 +3,9 @@ layout: page
 title: Leonardo Di Gaetano
 #description: 
 img: assets/img/leo_pic.jpg
+redirect: https://leonardodigaetano.github.io/
 importance: 1
 category: PhD Students
-redirect: https://leonardodigaetano.github.io/
 ---
 
 I am a physicist with a dedicated focus on network science, particularly in its application to brain networks and social systems.
