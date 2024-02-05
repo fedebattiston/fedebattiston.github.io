@@ -2,6 +2,7 @@
 layout: about
 title: Home
 permalink: /
+nav: false
 #subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
