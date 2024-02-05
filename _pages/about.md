@@ -28,8 +28,8 @@ social: true # includes social icons at the bottom of the page
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -50vw;
-    margin-right: -50vw;
+    margin-left: -0vw;
+    margin-right: -0vw;
     background-image: url('assets/img/Etna.jpg');
     background-size: cover;
     background-position: center;
@@ -38,12 +38,11 @@ social: true # includes social icons at the bottom of the page
     text-align: left; /* Aligns text to the left */
   }
   .banner-description {
-    color: orange; /* Specific class for the description to make it orange */
+    color: black; /* Specific class for the description to make it orange */
   }
 </style>
 
 <div class="full-width-banner">
-  <h1>Home</h1>
   <p class="banner-description">Write some description here.</p> <!-- No longer a link, and now orange -->
 </div>
 
