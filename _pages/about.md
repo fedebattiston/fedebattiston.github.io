@@ -43,14 +43,14 @@ social: true # includes social icons at the bottom of the page
     padding: 0 15px; /* Adds padding inside the content block */
   }
   .banner-description {
-    color: orange; /* Specific class for the description to make it orange */
+    color: black; /* Specific class for the description to make it orange */
   }
 </style>
 
 <div class="full-width-banner">
   <div class="banner-content">
-    <h1>Home</h1>
-    <p class="banner-description">Write some description here.</p>
+    <p class="banner-description">Department of Network and Data Science.</p>
+    <p class="banner-description">Central European University.</p>
   </div>
 </div>
 
