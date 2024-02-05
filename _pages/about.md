@@ -42,8 +42,11 @@ social: true # includes social icons at the bottom of the page
     margin: 0 auto; /* Centers the content block within the banner */
     padding: 0 15px; /* Adds padding inside the content block */
   }
+  .banner-content h1, .banner-content p {
+    font-weight: bold; /* Makes both the heading and paragraph text bold */
+  }
   .banner-description {
-    color: black; /* Specific class for the description to make it orange */
+    color: white; /* Specific class for the description to make it orange */
   }
 </style>
 
