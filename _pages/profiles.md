@@ -2,7 +2,7 @@
 layout: page
 title: Group
 permalink: /profiles/
-description: This is our team.
+description: You can find below a short introduction to our team members.
 nav: true
 nav_order: 4
 display_categories: [Principal Investigator, Postdocs, PhD Students, Master's Students, Visiting Students]

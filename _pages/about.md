@@ -2,16 +2,16 @@
 layout: about
 title: Home
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+#subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
   image: fede_pic.png
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>Central European University, D308</p>
-    <p>Quellenstrasse 51, 1100</p>
-    <p>Vienna, Austria</p>
+    <p>Associate Professor</p>
+    <p>Department of Network and Data Science</p>
+    <p>Central European University</p>
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
