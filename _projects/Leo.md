@@ -4,7 +4,6 @@ title: Leonardo Di Gaetano
 #description: 
 img: assets/img/leo_pic.jpg
 redirect: https://leonardodigaetano.github.io/
-importance: 1
 category: PhD Students
 ---
 
