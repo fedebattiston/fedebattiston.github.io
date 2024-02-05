@@ -22,4 +22,4 @@ social: true # includes social icons at the bottom of the page
 
 Hi, I am Fede, and we are the Center for Collective Dynamics!
 
-Since 2017 we are part of the Department of Network & Data Science at Central European University in Vienna, where I work as an Associate Professor.
+Since 2017 we are part of the [Department of Network & Data Science](https://networkdatascience.ceu.edu/) at Central European University in Vienna, where I work as an Associate Professor.
