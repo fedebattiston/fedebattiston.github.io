@@ -10,8 +10,7 @@ profile:
   image_circular: true # crops the image to make it circular
   more_info: >
     <p>Associate Professor</p>
-    <p>Department of Network and Data Science</p>
-    <p>Central European University</p>
+
 
 news: false # includes a list of news items
 latest_posts: false # includes a list of the newest posts
