@@ -28,21 +28,22 @@ social: true # includes social icons at the bottom of the page
     position: relative;
     left: 50%;
     right: 50%;
-    margin-left: -0vw;
-    margin-right: -0vw;
+    margin-left: -50vw;
+    margin-right: -50vw;
     background-image: url('assets/img/Etna.jpg');
     background-size: cover;
     background-position: center;
     color: white; /* Keeps the general text color as white */
-    padding: 50px 20px; /* Adjusted padding for inner spacing */
+    padding: 100px 20px; /* Adjusted padding for inner spacing */
     text-align: left; /* Aligns text to the left */
   }
   .banner-description {
-    color: black; /* Specific class for the description to make it orange */
+    color: orange; /* Specific class for the description to make it orange */
   }
 </style>
 
 <div class="full-width-banner">
+  <h1>Home</h1>
   <p class="banner-description">Write some description here.</p> <!-- No longer a link, and now orange -->
 </div>
 
