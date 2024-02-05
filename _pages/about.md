@@ -44,9 +44,7 @@ social: true # includes social icons at the bottom of the page
   <p><a href="#">Write some description here.</a></p>
 </div>
 
-
-
-
+---
 
 
 Hi, I am Fede, and we are the Center for Collective Dynamics!
