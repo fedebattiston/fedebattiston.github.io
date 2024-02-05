@@ -34,7 +34,7 @@ social: true # includes social icons at the bottom of the page
     background-size: cover;
     background-position: center;
     color: white; /* Keeps the general text color as white */
-    padding: 50px 0; /* Keeps top and bottom padding, removes left/right padding */
+    padding: 70px 0; /* Keeps top and bottom padding, removes left/right padding */
     text-align: left; /* Aligns text to the left */
   }
   .banner-content {
