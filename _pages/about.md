@@ -34,8 +34,13 @@ social: true # includes social icons at the bottom of the page
     background-size: cover;
     background-position: center;
     color: white; /* Keeps the general text color as white */
-    padding: 100px 20px; /* Adjusted padding for inner spacing */
+    padding: 50px 0; /* Keeps top and bottom padding, removes left/right padding */
     text-align: left; /* Aligns text to the left */
+  }
+  .banner-content {
+    max-width: 1200px; /* Adjust this to match your site's content width */
+    margin: 0 auto; /* Centers the content block within the banner */
+    padding: 0 15px; /* Adds padding inside the content block */
   }
   .banner-description {
     color: orange; /* Specific class for the description to make it orange */
@@ -43,9 +48,12 @@ social: true # includes social icons at the bottom of the page
 </style>
 
 <div class="full-width-banner">
-  <h1>Home</h1>
-  <p class="banner-description">Write some description here.</p> <!-- No longer a link, and now orange -->
+  <div class="banner-content">
+    <h1>Home</h1>
+    <p class="banner-description">Write some description here.</p>
+  </div>
 </div>
+
 
 ---
 
