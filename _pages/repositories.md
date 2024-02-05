@@ -10,4 +10,4 @@ nav_order: 6
 I am the project coordinator of [HypergraphX](https://github.com/HGX-Team/hypergraphx) (HGX), an open-source python library for higher-order network analysis.
 The library is led by Francesco Lotito and was developed by the members of the HGX Team.
 
-Jointly with Vincenzo Nicosia I am an author of [MAMMULT](https://github.com/fede7j/mammult), a python/C library to study the structure and dynamics of multiplex networks
+Jointly with Vincenzo Nicosia I am an author of [MAMMULT](https://github.com/fede7j/mammult), a python/C library to study the structure and dynamics of multiplex networks.
