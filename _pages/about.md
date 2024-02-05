@@ -20,14 +20,29 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
 ---
 
-<div style="background-image: url('assets/img/Etna.jpg'); background-size: cover; color: white; text-align: center; padding: 50px 0;">
+<style>
+  .full-width-banner {
+    margin: 0 auto;
+    padding: 0;
+    width: 100vw;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    margin-left: -50vw;
+    margin-right: -50vw;
+    background-image: url('assets/img/Etna.jpg');
+    background-size: cover;
+    background-position: center;
+    color: white;
+    text-align: center;
+    padding: 50px 0;
+  }
+</style>
+
+<div class="full-width-banner">
   <h1>Home</h1>
-  <p><a href="#">Write the some description here.
-
-
-
-
-
+  <p><a href="#">Write some description here.</a></p>
+</div>
 
 
 
